@@ -1,0 +1,16 @@
+# Timeline Events
+# Chronological list of work experience and education
+# Displayed on the homepage in the Timeline section
+- id: "experience_1"
+  start_date: "2026-01"
+  end_date: "present"
+  description: "Example description: **Research Associate in AI for Health Data Systems** at the [Imperial College London](https://www.imperial.ac.uk/) working with the Ethiopian Data Analytics and Modelling Consortuium (EDAM)."
+  url: "https://www.imperial.ac.uk/"
+  logo: "content/timeline/logos/building.png"
+
+- id: "experience_2"
+  start_date: "2021-01"
+  end_date: "2025-12"
+  description: "The role description goes here!"
+  url: "https://www.imperial.ac.uk/" # Clicking the image will redirect to this link
+  logo: "content/timeline/logos/building.png" # The image

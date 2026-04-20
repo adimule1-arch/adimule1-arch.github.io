@@ -1,0 +1,18 @@
+- id: example-blog-post-2026
+  title: Example Blog Post
+  short_title: Example Post
+  date: '2026-04-18'
+  excerpt: A short example post showing how to add a blog entry to the portfolio template.
+  thumbnail: blogs/images/blog_icon.png
+  permalink: /blog/example-blog-post/
+  reading_time: 1 min read
+- id: blog_1
+  title: Collaborations
+  short_title: Collaborations
+  date: '2026-04-11'
+  excerpt: Part 3 of the PhD survival series. Most meaningful work is done in teams.
+    Collaboration is a multiplier, but only when scale, structure, and ownership are
+    designed well.
+  thumbnail: blogs/images/idiap/justiceLeagueNVIB.png
+  reading_time: 12 min read
+  hidden: true

@@ -1,0 +1,15 @@
+# Projects List
+# Displayed on the homepage in the Projects section
+
+- id: project_1
+  title: "Project title"
+  authors: "Selam (Doe), Dawit (Doe), ..."
+  description: "A short description of the project."
+  context: "Employer, client, university course, etc."
+  writeup: "content/projects/files/NeurIPS-2017-attention-is-all-you-need-Paper.pdf" # If you have a PDF or write-up. Note, the project
+  poster: "content/projects/files/..." # If you have a poster related to the project. This can also be a link
+  slides: "content/projects/files/..." # If you have slides related. This can also be a link
+  video: "https://youtube.com/..." # If you have a link to a video that explains the project
+  code: "https://github.com/..." # If you have a link to the code of the project
+  demo: "https://huggingface.co/spaces/..." # If you have a demo of the project - e.g. huggingface demo
+  image: "content/projects/files/project_icon.png"
